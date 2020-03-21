@@ -1,0 +1,21 @@
+.container2{
+    height =60%;
+    width=45%;
+    padding:25px;
+    margin-bottom: 50px;
+    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgba(78, 74, 74, 0.575);
+    color:Black;
+    text-align: center;
+    height: 50px;
+ }
+ body {
+    
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(87, 84, 84)); /* Standard syntax (must be last) */
+  }
